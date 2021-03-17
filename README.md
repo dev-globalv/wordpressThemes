@@ -1,1 +1,1 @@
-# Wordpress Theme Custom Theme
+# Wordpress Themes Custom Theme
